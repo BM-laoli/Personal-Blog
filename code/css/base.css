@@ -26,12 +26,12 @@ a {
 
 .wr {
     width: 301px;
-    /* background-color: pink */
+    background-color: #ffff;
 }
 
 .wl {
     width: 873px;
-    background-color: pink;
+    /* background-color: ; */
 }
 
 .clearfix:before,
